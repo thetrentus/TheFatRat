@@ -66,7 +66,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ## Getting Started
-1. ```git clone https://github.com/Screetsec/TheFatRat.git```
+1. ```git clone https://github.com/thetrentus/TheFatRat.git```
 2. ```cd TheFatRat```
 3. ```chmod +x setup.sh && ./setup.sh```
 
