@@ -1,6 +1,5 @@
 
 # TheFatRat a Massive Exploiting Tool Revealed
-# Full credit to the original authors/owners of this great program
 
 
 [![Version](https://img.shields.io/badge/TheFatRat-1.9.5-brightgreen.svg?maxAge=259200)]()
@@ -144,7 +143,5 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - And another open sources tool in github
 - Uptodate new tools hacking visit http://www.kitploit.com
 
-## Disclaimer
-
-***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( Edo -m- ).***
+# Full credit to the original authors/owners of this great program
 
