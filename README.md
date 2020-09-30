@@ -53,7 +53,7 @@ An easy tool to generate backdoor and easy tool to post exploitation attack like
 - You can change the icon autorun file or exe in folder icon ( replace your another ico and replace name with autorun.ico )
 
 
-# HOW CHANGE THE ICONS ?
+# HOW TO CHANGE THE ICONS ?
 
 - Copy your icon picture to folder /TheFatrat/icons
 - Change the name into autorun.ico
@@ -70,7 +70,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 2. ```cd TheFatRat```
 3. ```chmod +x setup.sh && ./setup.sh```
 
-## :book: How it works
+## :BOOK: How it works
 
 * Extract The lalin-master to your home or another folder
 * chmod +x fatrat
@@ -90,7 +90,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ##  :heavy_exclamation_mark: READ
-- if prog.c file to large when create backdoor with powerfull.sh , you can use prog.c.backup and create another backup when you running option 2
+- if prog.c file to large when create backdoor with powerfull.sh ,when you running option 2,you can use prog.c.backup and create another backup 
 
 ##  Update Fatrat
 - To update fatrat go to your TheFatRat folder and execute :
